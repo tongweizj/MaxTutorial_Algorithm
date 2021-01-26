@@ -15,8 +15,79 @@
 - 回溯法、贪心算法、动态规划。
 
 
+
+
+
+## 学习路径
+
+### 第一步，看最粗浅的算法知识介绍
+
+1. 大概知识，是什么，
+2. 可以干什么用，
+3. 可以怎么学。
+4.  信心，兴趣
+5. 数据结构的知识
+   
+
+### 第二步， 详细学习每个知识点并且练习
+
+每个知识点，都要对应的做题，以加深印象
+
+视频课程 + 分类刷题 +
+
+### 第三步 总结题解 + 回头复习
+
+- 数据结构：
+  - 栈，
+  - 队列，
+  - 字典，
+  - 元组，
+  - 树，
+  - 链表。
+- 算法
+  - 算法的复杂度分析。时间复杂度（线性、二次和常量）
+  - 搜索（线性和二分查找）、
+  - 递归函数（阶乘、斐波那契数列）、
+  - 时间复杂度（线性、二次和常量）
+  - 数组中的双指针、滑动窗口思想。
+  - 利用 Map 和 Set 处理查找表问题。
+  - 链表的各种问题。
+  - 利用递归和迭代法解决二叉树问题。
+  - 栈、队列、DFS、BFS。
+  - 回溯法、贪心算法、动态规划。
+
+
+
+## 练习方法
+
+学一个知识点，就开始刷这个知识点的题
+
+### 刷题
+
+每一题做 2 遍
+
+1. 第一遍，提交
+
+2. 第二遍
+   1. 和最高投票的题，去比较。学习别人的答案
+   2. 尽量做到bugfree
+   3. 提高编程速度
+
+### 笔记和复习
+
+1. 要写清楚考点，思考
+2. 复习，每天花5分钟将前一天学的复习下
+
 ## 学习资料
 
-https://books.halfrost.com/leetcode/ChapterFour/0001.Two-Sum/
+[LeetCode cookbook 中文](https://books.halfrost.com/leetcode/ChapterFour/0001.Two-Sum/)
+
+https://github.com/jeffgerickson/algorithms
+
+[计算机面试笔试](https://github.com/CyC2018/CS-Notes)
 
 jupyter
+
+- https://github.com/geekxh/hello-algorithm
+- https://github.com/labuladong/fucking-algorithm
+- https://github.com/greyireland/algorithm-pattern
