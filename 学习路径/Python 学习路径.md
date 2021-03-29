@@ -1,3 +1,15 @@
+
+
+
+
+1. 交易技术指标
+2. Python编程语言
+3. 交易回溯框架
+4. 机器学习算法
+5. 深度学习框架
+
+
+
 **量化视频学习课程 2 ：Python 编程引导（上集）：**[网页链接](http://www.bilibili.com/video/av4220609/)
 **量化视频学习课程 3 ： Python 编程引导（下集）：**[网页链接](http://www.bilibili.com/video/av4220647/)
 
